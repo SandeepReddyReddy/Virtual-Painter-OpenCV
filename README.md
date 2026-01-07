@@ -40,12 +40,14 @@ This project aims to create a touchless drawing system using computer vision and
 
 ## Gesture Mapping
 Display Color labels and Eraser on the top
+
 ☝️ Index only --> Drawing Mode                
 ✌️ Index + Middle --> Color/Eraser Selection Mode
 ✋ All five fingers UP --> No action
 ✊ All closed --> No action
 Press key "S" --> Saves current canvas as drawing_1.png, drawing_2.png...
 Predd key "Q" --> Stops frame reading and Releases the webcam
+
 
 ## Conclusion
 This project demonstrates the practical application of computer vision and gesture recognition to build an intuitive, touchless drawing system.
